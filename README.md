@@ -1,4 +1,5 @@
 **Minesweeper Project**
+//
 Introduction
 Welcome to the Minesweeper project! This Minesweeper game is implemented in Python and provides a classic Minesweeper experience for users. The game is designed to be easy to understand, yet challenging enough to keep players engaged.
 
