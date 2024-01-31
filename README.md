@@ -3,14 +3,7 @@
 ### Introduction
 Welcome to the Minesweeper project! This Minesweeper game is implemented in Python and provides a classic Minesweeper experience for users. The game is designed to be easy to understand, yet challenging enough to keep players engaged.
 
-Table of Contents
-Installation
-How to Play
-Features
-Dependencies
-Contributing
-License
-Installation
+### Installation
 To run the Minesweeper game, follow these steps:
 
 Make sure you have Python installed on your system. You can download it from python.org.
@@ -45,12 +38,11 @@ Time tracking to challenge your speed.
 Dependencies
 The Minesweeper project has no external dependencies. It's built using standard Python libraries, making it easy to run on various systems without additional installations.
 
-Contributing
+###Contributing
 If you'd like to contribute to the Minesweeper project, please follow these steps:
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Push your changes to your fork.
+5. Submit a pull request.
 
-Fork the repository.
-Create a new branch for your feature or bug fix.
-Make your changes and commit them.
-Push your changes to your fork.
-Submit a pull request.
-Please make sure to follow the Code of Conduct and adhere to the project's coding standards.
